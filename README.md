@@ -15,7 +15,7 @@ The six possible exploits are:
 Each version of the site has been given two of the six vulnerabilities. (In other words, all six of the exploits should be assignable to one of the sites.)
 
 ## BLUE
-Vulnerability #1:
+Vulnerability #1: Session Hijacking
 
 Vulnerability #2:
 
@@ -25,9 +25,10 @@ Vulnerability #1:
 Vulnerability #2:
 
 ## RED
-Vulnerabiltiy #1:
+Vulnerabiltiy #1: IDOR
 
 Vulnerability #2:
 
 ## NOTES - (Describe any challenges encountered while doing the work)
-https://imgur.com/TIApfwi
+* Session Hijacking: https://imgur.com/mkd0Ucx
+* IDOR: https://imgur.com/mRyAzGJ
