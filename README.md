@@ -16,14 +16,17 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## BLUE
 Vulnerability #1:
+
 Vulnerability #2:
 
 ## GREEN
 Vulnerability #1:
+
 Vulnerability #2:
 
 ## RED
 Vulnerabiltiy #1:
+
 Vulnerability #2:
 
 ## NOTES - (Describe any challenges encountered while doing the work)
