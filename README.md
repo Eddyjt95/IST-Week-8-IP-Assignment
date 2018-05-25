@@ -1,6 +1,6 @@
 # IST-Week-8-IP-Assignment
 
-Time spent: [UPDATE WHEN DONE] hours spent in total
+Time spent: Approximately 12 hours spent in total
 
 > Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
 
