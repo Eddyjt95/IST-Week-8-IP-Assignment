@@ -31,10 +31,18 @@ Vulnerability #2:
 
 ## NOTES - (Describe any challenges encountered while doing the work)
 * Session Hijacking: https://imgur.com/mkd0Ucx
- [Describe]
+ 
+[Describe]
+ 
 * SQL Injection: https://imgur.com/bDJ3bSF
- [Describe]
+
+[Describe]
+ 
 * XSS: https://imgur.com/wu8LSbI
- [Describe]
+
+[Describe]
+ 
 * IDOR: https://imgur.com/mRyAzGJ
- [Describe]
+
+[Describe]
+
