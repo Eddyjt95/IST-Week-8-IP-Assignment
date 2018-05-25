@@ -20,7 +20,7 @@ Vulnerability #1: Session Hijacking
 Vulnerability #2:
 
 ## GREEN
-Vulnerability #1:
+Vulnerability #1:XSS
 
 Vulnerability #2:
 
@@ -31,4 +31,5 @@ Vulnerability #2:
 
 ## NOTES - (Describe any challenges encountered while doing the work)
 * Session Hijacking: https://imgur.com/mkd0Ucx
+* XSS: https://imgur.com/wu8LSbI
 * IDOR: https://imgur.com/mRyAzGJ
