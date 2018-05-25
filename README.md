@@ -17,7 +17,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 ## BLUE
 Vulnerability #1: Session Hijacking
 
-Vulnerability #2:
+Vulnerability #2: SQL Injection
 
 ## GREEN
 Vulnerability #1:XSS
@@ -31,5 +31,10 @@ Vulnerability #2:
 
 ## NOTES - (Describe any challenges encountered while doing the work)
 * Session Hijacking: https://imgur.com/mkd0Ucx
+ [Describe]
+* SQL Injection: https://imgur.com/bDJ3bSF
+ [Describe]
 * XSS: https://imgur.com/wu8LSbI
+ [Describe]
 * IDOR: https://imgur.com/mRyAzGJ
+ [Describe]
